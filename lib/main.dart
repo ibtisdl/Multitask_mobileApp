@@ -19,7 +19,7 @@ class MyApp extends StatelessWidget {
                   displayLarge:
                       TextStyle(fontSize: 45, color: Colors.indigo[400])),
               colorScheme: ColorScheme.fromSeed(
-                  seedColor: Colors.brown, primary: Colors.brown),
+                  seedColor: Colors.white, primary: Colors.white),
               indicatorColor: Colors.green),
       home: HomePage(),
     );
